@@ -6,7 +6,8 @@ Social Learn is a cutting-edge social learning network designed specifically for
 
 Flow of the project. :
 
- ![flow  drawio](https://github.com/HariDama21/Social-learning-network-for-Students-MERN-Project-/assets/106622827/485c186e-e72d-45a2-807c-8327899f5903)   ![Screenshot 2024-03-31 183011](https://github.com/HariDama21/Social-learning-network-for-Students-MERN-Project-/assets/106622827/0143035d-5b7a-4ee5-a4e9-c0b8f898b821)
+![flow  drawio (1)](https://github.com/HariDama21/Social-learning-network-for-Students-MERN-Project-/assets/106622827/63af3ff8-4c56-4bf9-b655-829c745dbd47)
+   ![Screenshot 2024-03-31 183011](https://github.com/HariDama21/Social-learning-network-for-Students-MERN-Project-/assets/106622827/0143035d-5b7a-4ee5-a4e9-c0b8f898b821)
 
 Technologies used :
 
